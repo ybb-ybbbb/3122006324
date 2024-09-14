@@ -1,0 +1,4 @@
+{文件F:\python\project\pythonProject\论文查重\测试文本\orig.txt和文件F:\python\project\pythonProject\论文查重\测试文本\orig_0.8_add.txt的相似度为:86.41}
+{文件F:\python\project\pythonProject\论文查重\测试文本\orig.txt和文件F:\python\project\pythonProject\论文查重\测试文本\orig_0.8_del.txt的相似度为:87.83}
+{文件F:\python\project\pythonProject\论文查重\测试文本\orig.txt和文件F:\python\project\pythonProject\论文查重\测试文本\orig_0.8_dis_1.txt的相似度为:96.57}
+{文件F:\python\project\pythonProject\论文查重\测试文本\orig.txt和文件F:\python\project\pythonProject\论文查重\测试文本\orig_0.8_dis_10.txt的相似度为:88.05}
